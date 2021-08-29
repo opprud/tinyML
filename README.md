@@ -1,2 +1,2 @@
 # tinyML
-resources for tin machine learning
+resources for tiny machine learning
